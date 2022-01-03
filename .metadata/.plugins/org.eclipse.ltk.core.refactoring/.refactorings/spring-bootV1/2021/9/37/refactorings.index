@@ -1,0 +1,10 @@
+1631184021835	Rename package 'com.xoriant.ehop'
+1631184606618	Extract interface 'ProductDao'
+1631184843416	Rename type 'ProductService'
+1631184860089	Extract interface 'ProductService'
+1631185305147	Rename local variable 'bean'
+1631185495799	Rename package 'com.xoriant.eshop.serrvice'
+1631185669009	Delete element
+1631185778777	Extract interface 'ProductReview'
+1631186503814	Extract interface 'ProductReviewService'
+1631186638172	Rename type 'ProductReview'

@@ -1,0 +1,9 @@
+1629795299989	Rename field 'seatNo'
+1629796566983	Rename type 'SeatBook'
+1629796651067	Rename type 'CreateSeats'
+1629796850577	Rename local variable 'seats'
+1629802318889	Rename type 'Person'
+1629802409850	Rename local variable 'personOne'
+1629804099655	Rename method 'seatToBeBooked'
+1629886828061	Delete element
+1629890549238	Delete element

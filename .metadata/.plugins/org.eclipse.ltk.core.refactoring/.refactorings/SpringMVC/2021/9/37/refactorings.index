@@ -1,0 +1,22 @@
+1631037202774	Rename resource 'hiome.jsp'
+1631079583814	Delete element
+1631081206197	Extract interface 'ProductDao'
+1631081223334	Delete element
+1631081251315	Extract interface 'ProductDao'
+1631084539006	Copy file
+1631084683712	Copy file
+1631084966445	Rename resource 'fotter.jsp'
+1631085377413	Move 'application.properties' to 'webapp'
+1631087263153	Delete element
+1631089340806	Rename type 'ProductService'
+1631089361411	Extract interface 'ProductService'
+1631092246789	Copy packages
+1631092325779	Copy folder
+1631094030958	Copy packages
+1631094098746	Copy folder
+1631094973673	Copy packages
+1631095195083	Copy packages
+1631097772777	Copy compilation units
+1631097862769	Copy compilation units
+1631098078699	Copy package
+1631098132389	Copy folder

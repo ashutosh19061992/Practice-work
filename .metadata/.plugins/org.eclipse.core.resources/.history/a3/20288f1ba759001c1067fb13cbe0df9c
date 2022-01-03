@@ -1,0 +1,13 @@
+package com.mailer;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        String message = "Hello message";
+        String subject = "Test Email Message.";
+        String to = "ashutoshparasadarsh@gmail.com";
+        String from = "ashutoshparasadarsh@gmail.com";
+    }
+}

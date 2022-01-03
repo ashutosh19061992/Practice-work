@@ -1,0 +1,26 @@
+package com.mailer;
+
+import java.util.Properties;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        String message = "Hello message";
+        String subject = "Test Email Message.";
+        String to = "ashutoshparasadarsh@gmail.com";
+        String from = "ashutoshparasadarsh@gmail.com";
+        sendEmail(message, subject, to, from);
+    }
+
+	private static void sendEmail(String message, String subject, String to, String from) {
+		//variable fro gmail host
+		String host = "smtp.gmail.com";
+		
+		// get the system proterties
+		Properties properties = System.getProperties();
+		properties.setProperty("mail.smtp.host", host);
+		properties.setProperty("mail.smtp.ssl.enable", "true");
+	}
+}

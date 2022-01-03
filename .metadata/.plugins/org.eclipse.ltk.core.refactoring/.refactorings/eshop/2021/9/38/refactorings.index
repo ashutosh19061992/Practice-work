@@ -1,0 +1,9 @@
+1631620020904	Rename type 'ProductService'
+1631620274851	Rename type 'Genser'
+1631620394433	Delete element
+1631620783011	Rename type 'OrdrReview'
+1631624106668	Rename type 'OrderReview'
+1631624129134	Rename type 'ProductReview'
+1631634087764	Rename field 'reviewList'
+1631634774804	Rename field 'shirtReview'
+1631643754876	Extract interface 'ProductService'

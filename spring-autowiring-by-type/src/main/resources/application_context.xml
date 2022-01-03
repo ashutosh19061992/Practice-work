@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- USING Refference, No auto wiring -->
+
+	<bean name="dept"
+		class="com.xoriant.autowiring.service.Department">
+		<property name="name" value="I.T" />
+		<property name="location" value="Lucknow" />
+	</bean>
+	
+	<bean name="emp" class="com.xoriant.autowiring.service.Employee"
+		autowire="byType">
+		<property name="name" value="Ashutosh" />
+		<property name="designation" value="Software Engineer" />
+		<property name="phoneNo" value="9532975009" />
+	</bean>
+</beans>

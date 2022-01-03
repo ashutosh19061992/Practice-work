@@ -1,0 +1,9 @@
+1630604001322	Delete elements
+1630604053873	Delete element
+1630604632655	Extract interface 'ProductDao'
+1630604649754	Delete element
+1630604681408	Extract interface 'ProductDao'
+1630604767259	Rename package 'com.xoriant.crud.dao'
+1630604781780	Rename package 'com.xoriant.crud.models'
+1630604968115	Rename type 'ProductService'
+1630604985057	Extract interface 'ProductService'
