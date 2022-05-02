@@ -364,7 +364,7 @@ public class App {
 		// create the session and override the getPasswordAuthentication()
 		Session session = Session.getInstance(properties, new Authenticator() {
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("ashutoshparasadarsh@gmail.com", "ashubade1219061992");
+				return new PasswordAuthentication("ashutoshparasadarsh@gmail.com", "dummypassword");
 			}
 		});
 		session.setDebug(true);
